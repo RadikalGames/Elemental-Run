@@ -64,8 +64,8 @@ MonoBehaviour:
     y: 403
     width: 310
     height: 233
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -113,8 +113,8 @@ MonoBehaviour:
     y: 221
     width: 806
     height: 415
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -527,19 +527,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\U5projs\Elemental Run
+  m_LastProjectPath: C:\Users\Souryadeep\Documents\GitHub\Elemental-Run\Elemental
+    Run
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 167}
-    m_SelectedIDs: 4e2d0000
-    m_LastClickedID: 11598
-    m_ExpandedIDs: 00000000722b0000a82b0000462d000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 95}
+    m_SelectedIDs: c4250000
+    m_LastClickedID: 9668
+    m_ExpandedIDs: 00000000c42500000a2600003228000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -567,7 +568,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000722b0000a82b0000462d0000
+    m_ExpandedIDs: 00000000c42500000a26000032280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -594,7 +595,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -802,7 +803,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 18a7feff1ea7feffc646ffff94ecffff00000000
+    m_ExpandedIDs: aefbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
